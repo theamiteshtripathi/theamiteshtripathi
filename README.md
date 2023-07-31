@@ -29,3 +29,4 @@ Feel free to reach out to me at 1amiteshtripathi@gmail.com or through [LinkedIn]
 </picture>
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=theamiteshtripathi.theamiteshtripathi)
+
