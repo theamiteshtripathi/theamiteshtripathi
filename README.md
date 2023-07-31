@@ -25,7 +25,8 @@ Feel free to reach out to me at 1amiteshtripathi@gmail.com or through [LinkedIn]
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/theamiteshtripathi/theamiteshtripathi/blob/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/theamiteshtripathi/theamiteshtripathi/blob/output/github-contribution-grid-snake-light.svg">
-  <img src="https://github.com/theamiteshtripathi/theamiteshtripathi/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg">
 </picture>
 
 
