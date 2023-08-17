@@ -22,11 +22,11 @@ I'm a Master's Candidate in Data Analytics at Northeastern University, Boston, U
 ## 📫 How to reach me
 Feel free to reach out to me at 1amiteshtripathi@gmail.com or through [LinkedIn](https://www.linkedin.com/in/theamiteshtripathi).
 
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/theamiteshtripathi/snk/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/theamiteshtripathi/snk/output/github-contribution-grid-snake.svg)
 
