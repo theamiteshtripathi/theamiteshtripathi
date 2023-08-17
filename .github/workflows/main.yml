@@ -34,4 +34,4 @@ jobs:
           git config --global user.email "1amiteshtripathi@gmail.com"
           git config --global user.name "Amitesh Tripathi"
           git commit -am "Updated 🐍 Snake" || exit 0
-          git push
+          git push origin main
