@@ -99,19 +99,22 @@ Advanced customer segmentation system for targeted marketing campaigns.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theamiteshtripathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theamiteshtripathi&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theamiteshtripathi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theamiteshtripathi&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamiteshtripathi&theme=radical&hide_border=true" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=theamiteshtripathi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Amitesh Tripathi's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=theamiteshtripathi&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=theamiteshtripathi&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theamiteshtripathi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theamiteshtripathi&custom_title=Amitesh's%20Contribution%20Graph&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 ## 🤝 Let's Connect!
 
@@ -129,7 +132,14 @@ Advanced customer segmentation system for targeted marketing campaigns.
 
 <div align="center">
   <h3>🐍 Watch my contribution graph get eaten by the snake 🐍</h3>
-  <img src="https://github.com/theamiteshtripathi/theamiteshtripathi/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  
+  ![Snake animation](https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake-dark.svg)
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
