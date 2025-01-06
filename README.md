@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;Data+Science+Expert;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Expert;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -8,15 +8,22 @@
 
 # 🚀 About Me
 
-AI/ML Engineer with 4+ years of experience in designing, developing, and deploying machine learning models and AI systems across various industries. Recent graduate with a Master's in Data Analytics from Northeastern University (Dec 2023), passionate about leveraging cutting-edge AI/ML solutions for real-world impact.
+Innovative AI/ML Engineer with a proven track record in developing cutting-edge LLM applications and scalable AI solutions. Recent graduate from Northeastern University (Dec 2023) with 4+ years of industry experience, currently driving AI innovation at Crewasis AI. Passionate about leveraging advanced AI/ML solutions to solve complex business challenges and create measurable impact.
 
 ## 💫 Expertise Highlights
-- 🧠 Deep expertise in ML frameworks including TensorFlow, PyTorch, Keras, and Scikit-learn
-- 🔬 Specialized in both supervised and unsupervised learning, with advanced knowledge in reinforcement learning and GANs
-- 🏗️ Proficient in deep learning architectures (CNNs, RNNs, Transformers) for complex applications
-- ☁️ Experienced in cloud deployment (AWS, GCP, Azure) using MLflow, Docker, and Kubernetes
-- 🤖 Expert in NLP with focus on sentiment analysis, NER, and building advanced NLP pipelines using spaCy and NLTK
-- 📊 Strong foundation in Agile methodologies using JIRA for efficient project management
+- 🤖 **LLM Applications**: Built production-grade LLM solutions achieving 60%+ efficiency improvements
+- 🧠 **AI/ML Development**: Developed scalable AI systems processing 50K+ data points with 75% improved efficiency
+- 🔄 **MLOps & Automation**: Implemented automated pipelines reducing processing time by 70%
+- 📊 **Data Analytics**: Created impactful dashboards driving 50% faster decision-making
+- ☁️ **Cloud & DevOps**: Expertise in AWS, Azure, Docker, and Kubernetes for ML deployment
+- 🛠️ **Full Stack**: End-to-end development with React, FastAPI, and modern tech stack
+
+## 🎯 Recent Achievements
+- 📈 Developed LLM applications that reduced manual effort by 60% and saved 10+ hours weekly
+- 🤝 Built AI chatbots driving $100K+ in sales within 6 months
+- 🚀 Created reusable SaaS modules increasing deployment speed by 40%
+- 🎯 Achieved 85%+ accuracy in AI model deployments
+- 📚 Led AI training initiatives resulting in 80% increased tool adoption
 
 ## 🛠️ Technical Arsenal
 
@@ -78,9 +85,12 @@ Advanced customer segmentation system for targeted marketing campaigns.
 - 🔍 **Features**: Customer behavior analysis, predictive modeling, segment optimization
 - 🚀 **Scale**: Analyzed 1M+ customer records with real-time updating
 
-<div align="center">
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theamiteshtripathi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theamiteshtripathi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 🤝 Let's Connect!
 
@@ -90,7 +100,12 @@ Advanced customer segmentation system for targeted marketing campaigns.
   <a href="https://github.com/theamiteshtripathi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-![GitHub Contribution Grid Snake Animation - Dark Theme](https://raw.githubusercontent.com/theamiteshtripathi/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![GitHub Contribution Grid Snake Animation - Light Theme](https://raw.githubusercontent.com/theamiteshtripathi/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 
