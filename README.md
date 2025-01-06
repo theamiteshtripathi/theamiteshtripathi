@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Expert;Full+Stack+Developer" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Expert;Full+Stack+Developer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Expert;Full+Stack+Developer" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6F9EE8&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Amitesh+Tripathi+%F0%9F%91%8B;AI%2FML+Engineer;LLM+Expert;Full+Stack+Developer" alt="Typing SVG" />
+  </picture>
 </div>
 
 <div align="center">
@@ -10,11 +14,6 @@
   <a href="https://github.com/theamiteshtripathi?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/theamiteshtripathi?color=B8B92B&style=flat&labelColor=959532&logo=star"/>
   </a>
-</div>
-
-<div align="center">
-  <h3>Profile Views</h3>
-  <img src="https://profile-counter.glitch.me/theamiteshtripathi/count.svg" alt="Profile Views"/>
 </div>
 
 # 🚀 About Me
@@ -128,18 +127,6 @@ Advanced customer segmentation system for targeted marketing campaigns.
   <a href="https://github.com/theamiteshtripathi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <h3>🐍 Watch my contribution graph get eaten by the snake 🐍</h3>
-  
-  ![Snake animation](https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake-dark.svg)
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theamiteshtripathi/theamiteshtripathi/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <div align="center">
